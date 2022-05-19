@@ -1,0 +1,13 @@
+H:\POO3C1T_28_LuisBarbosa\Classes_Nome\Classes_Nome\bin\Debug\Classes_Nome.exe.config
+H:\POO3C1T_28_LuisBarbosa\Classes_Nome\Classes_Nome\bin\Debug\Classes_Nome.exe
+H:\POO3C1T_28_LuisBarbosa\Classes_Nome\Classes_Nome\bin\Debug\Classes_Nome.pdb
+H:\POO3C1T_28_LuisBarbosa\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.csproj.AssemblyReference.cache
+H:\POO3C1T_28_LuisBarbosa\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.csproj.SuggestedBindingRedirects.cache
+H:\POO3C1T_28_LuisBarbosa\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.FrmPrefeito.resources
+H:\POO3C1T_28_LuisBarbosa\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.Properties.Resources.resources
+H:\POO3C1T_28_LuisBarbosa\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.csproj.GenerateResource.cache
+H:\POO3C1T_28_LuisBarbosa\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.csproj.CoreCompileInputs.cache
+H:\POO3C1T_28_LuisBarbosa\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.exe
+H:\POO3C1T_28_LuisBarbosa\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.pdb
+H:\POO3C1T_28_LuisBarbosa\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.FrmAlimento.resources
+H:\POO3C1T_28_LuisBarbosa\Classes_Nome\Classes_Nome\obj\Debug\Classes_Nome.FrmLoja.resources
